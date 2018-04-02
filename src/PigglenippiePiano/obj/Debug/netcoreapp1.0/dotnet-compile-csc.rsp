@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\bin\Debug\netcoreapp1.0\PigglenippiePiano.dll"
+"C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\bin\Debug\netcoreapp1.0\PigglenippiePiano.dll"
 -r:"C:\Users\Seppe\.nuget\packages\Microsoft.AspNetCore.Antiforgery\1.0.1\lib\netstandard1.3\Microsoft.AspNetCore.Antiforgery.dll"
 -r:"C:\Users\Seppe\.nuget\packages\Microsoft.AspNetCore.Authorization\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Authorization.dll"
 -r:"C:\Users\Seppe\.nuget\packages\Microsoft.AspNetCore.Cors\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Cors.dll"
@@ -186,7 +186,7 @@
 -r:"C:\Users\Seppe\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Seppe\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Seppe\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--resource:"c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\obj\Debug\netcoreapp1.0\PigglenippiePianodotnet-compile.deps.json",PigglenippiePiano.deps.json
-"c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\Program.cs"
-"c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\Startup.cs"
-"c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\Controllers\HomeController.cs"
+-resource:"C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\obj\Debug\netcoreapp1.0\PigglenippiePianodotnet-compile.deps.json",PigglenippiePiano.deps.json
+"C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\Program.cs"
+"C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\Startup.cs"
+"C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\Controllers\HomeController.cs"

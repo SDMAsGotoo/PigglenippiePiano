@@ -1,5 +1,5 @@
---temp-output:c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\obj\Debug\netcoreapp1.0\
---out:c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\bin\Debug\netcoreapp1.0\PigglenippiePiano.dll
+--temp-output:C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\obj\Debug\netcoreapp1.0\
+--out:C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\bin\Debug\netcoreapp1.0\PigglenippiePiano.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -190,7 +190,7 @@
 --reference:C:\Users\Seppe\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Seppe\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Seppe\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\obj\Debug\netcoreapp1.0\PigglenippiePianodotnet-compile.deps.json",PigglenippiePiano.deps.json
-c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\Program.cs
-c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\Startup.cs
-c:\users\seppe\documents\visual studio 2015\Projects\PigglenippiePiano\src\PigglenippiePiano\Controllers\HomeController.cs
+--resource:"C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\obj\Debug\netcoreapp1.0\PigglenippiePianodotnet-compile.deps.json",PigglenippiePiano.deps.json
+C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\Program.cs
+C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\Startup.cs
+C:\Users\Seppe\Documents\PigglenippiePiano\src\PigglenippiePiano\Controllers\HomeController.cs
